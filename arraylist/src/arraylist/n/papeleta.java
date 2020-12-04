@@ -25,4 +25,4 @@ public class papeleta {
     public String getCandidato(){
         return candidato;
 }   
-}
+ }
